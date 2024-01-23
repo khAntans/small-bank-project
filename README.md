@@ -13,9 +13,9 @@ Small bank made with Laravel 10. Allows the user to create debit and investment 
 
 ### Images
 #### Index
-<img src="https://raw.githubusercontent.com/khAntans/images-for-personal-projects/main/Screenshot%20from%202024-01-22%2014-34-14.png" alt="index page"><br>
+<img src="https://raw.githubusercontent.com/khAntans/images-for-personal-projects/main/Screenshot%20from%202024-01-22%2014-34-14.png?token=GHSAT0AAAAAACMPTQE3P7EZFCXP2XRGAORMZNQBFXQ" alt="index page"><br>
 #### First time user dashboard view
-<img src="https://raw.githubusercontent.com/khAntans/images-for-personal-projects/main/Screenshot%20from%202024-01-22%2015-46-12.png" alt="First time user dashboard view"><br>
+<img src="https://raw.githubusercontent.com/khAntans/images-for-personal-projects/main/Screenshot%20from%202024-01-22%2015-46-12.png?token=GHSAT0AAAAAACMPTQE3P7EZFCXP2XRGAORMZNQBFXQ" alt="First time user dashboard view"><br>
 #### Repeat users dashboard view
 <img src="https://raw.githubusercontent.com/khAntans/images-for-personal-projects/main/Screenshot%20from%202024-01-22%2014-36-26.png" alt="Repeat users dashboard view"><br>
 #### First time user investment tab view
